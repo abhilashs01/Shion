@@ -1,3 +1,3 @@
 # Shion
 ## A project based on webdev
- this is a simple web dev project 
+ this is a simple blog website
